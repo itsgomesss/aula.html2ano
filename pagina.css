@@ -1,0 +1,45 @@
+body{
+	background:#FFFACD
+}
+
+.principal{
+	background: #FFFFE0
+}
+.titulo-principal{
+	text-align: center;
+	font-size: 50px;
+	color:#696969
+}
+.titulo-2{
+	color: #DA70D6;
+}
+#missao{
+	font-size: 20px;
+	color: #808080;
+}
+#missao2{
+	font-size: 20px;
+	color:#A9A9A9;
+}
+#missao3{
+	font-size: 20px;
+	font-style: italic;
+}
+.titulo-3{
+font-size: 20px;
+color:#FF69B4 ;
+}
+.itens{
+	font-size: 20px;
+	color:#D8BFD8
+
+}
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.beneficios{
+	width: 50%;
+}

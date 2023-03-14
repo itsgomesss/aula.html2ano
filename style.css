@@ -1,0 +1,40 @@
+header{
+background: #BBBBBB;
+}
+.caixa{
+  position: relative;
+  width: 940px;
+  margin: auto;
+}
+nav{
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+nav li{
+  display: inline;
+  margin: 0 0 0 15px;
+}
+nav a{
+text-transform: uppercase;
+color: 000000;
+font-weight: bold;
+font-size: 20px;
+text-decoration: none;
+}
+#nomesobrenome{
+display: list-item;
+vertical-align: top;
+}
+#email{
+display: list-item;
+vertical-align: top;
+}
+#telefone{
+display: list-item;
+vertical-align: top;
+}
+#mensagem{
+  display: list-item;
+  vertical-align: top;
+}

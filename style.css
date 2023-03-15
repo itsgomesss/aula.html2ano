@@ -7,9 +7,9 @@ background: #BBBBBB;
   margin: auto;
 }
 nav{
-  position: absolute;
-  top: 110px;
-  right: 0;
+position: absolute;
+top: 110px;
+right: 0;
 }
 nav li{
   display: inline;
@@ -22,19 +22,16 @@ font-weight: bold;
 font-size: 20px;
 text-decoration: none;
 }
-#nomesobrenome{
-display: list-item;
-vertical-align: top;
+main{
+  width: 940px;
+  margin: 0 auto
 }
-#email{
-display: list-item;
-vertical-align: top;
+form{
+  margin: 40px 0;
 }
-#telefone{
-display: list-item;
-vertical-align: top;
-}
-#mensagem{
-  display: list-item;
-  vertical-align: top;
+.input-padrao{
+  display: block;
+  margin: 0 0 20px;
+padding: 10px 25px;
+width: 50%;
 }

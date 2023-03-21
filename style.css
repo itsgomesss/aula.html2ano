@@ -1,5 +1,9 @@
 header{
-background: #BBBBBB;
+background: #FF69B4;
+
+}
+body{
+  background: #DA70D6;
 }
 .caixa{
   position: relative;
@@ -17,7 +21,7 @@ nav li{
 }
 nav a{
 text-transform: uppercase;
-color: 000000;
+color: #FF1493;
 font-weight: bold;
 font-size: 20px;
 text-decoration: none;
@@ -34,4 +38,5 @@ form{
   margin: 0 0 20px;
 padding: 10px 25px;
 width: 50%;
+border-radius: 25px;
 }

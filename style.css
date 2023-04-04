@@ -1,9 +1,9 @@
 header{
-background:#c35cfa ;
+background:#8ac77d ;
 
 }
 body{
-  background: #b851f0;
+  background: #a8d49f;
 }
 .caixa{
   position: relative;
@@ -22,7 +22,7 @@ nav li{
 }
 nav a{
 text-transform: uppercase;
-color: #7c07ba;
+color: #111211;
 font-weight: bold;
 font-size: 20px;
 text-decoration: none;
@@ -80,4 +80,14 @@ font-weight: bold;
 td,th {
   border: 1px solid #000000;
   padding:8px 15px;
+}
+footer{
+  text-align: center;
+  background: #020d00;
+  padding: 40px 0;
+}
+.copyright {
+  color: #FFFFFF;
+  font-size: 13px;
+  margin: 20px  0  0;
 }
